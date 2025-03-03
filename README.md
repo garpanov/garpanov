@@ -1,13 +1,5 @@
 <h1 align="left">✨About me:</h1>
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garpanov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=garpanov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
-</div>
-
-
 ###
 
 <h2 align="left">⚡I’m a cheerful Fullstack developer from Ukraine.<br>💻 I enjoy building websites, bots, scripts, and artificial intelligence.<br>I’m also passionate about crypto. Hmm… When will Bitcoin hit $1,000,000? 🤔🔥</h2>
@@ -94,3 +86,8 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=garpanov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=garpanov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
+</div>
