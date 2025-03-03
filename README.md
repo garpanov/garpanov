@@ -1,4 +1,4 @@
-<h1 align="left">✨About me</h1>
+<h1 align="left">✨About me:</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="left">📚 Tech Stack</h1>
+<h1 align="left">📚 Tech Stack:</h1>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h1 align="left">🌐 Socials</h1>
+<h1 align="left">🌐 Socials:</h1>
 
 ###
 
