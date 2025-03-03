@@ -1,8 +1,12 @@
+<h1 align="left">✨About me</h1>
+
+###
+
 <h2 align="left">⚡I’m a cheerful Fullstack developer from Ukraine.<br>💻 I enjoy building websites, bots, scripts, and artificial intelligence.<br>I’m also passionate about crypto. Hmm… When will Bitcoin hit $1,000,000? 🤔🔥</h2>
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFid3ptM3lyNWQxNGN0bDh3cDU5bmRpeHliNG5sYjU1Z3FwaTJ5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Z5kstwARnPna/giphy.gif"  />
+<h1 align="left">📚 Tech Stack</h1>
 
 ###
 
@@ -56,6 +60,10 @@
 
 ###
 
+<h1 align="left">🌐 Socials</h1>
+
+###
+
 <div align="left">
   <a href="https://t.me/ShadowCryps" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
@@ -63,12 +71,18 @@
   <a href="https://www.instagram.com/sasha_prilep/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/users/574597793558167552" target="_blank">
+  <a href="discord.com/users/574597793558167552" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="sashaprilep123654@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFid3ptM3lyNWQxNGN0bDh3cDU5bmRpeHliNG5sYjU1Z3FwaTJ5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Z5kstwARnPna/giphy.gif"  />
 </div>
 
 ###
