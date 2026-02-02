@@ -4,13 +4,13 @@
 
 
 <h2 style="display: flex; align-items: center; gap: 10px;">
-  Hey!
+  Hey
   <img
     src="https://media.giphy.com/media/4tSHBpzJw7R3rrKUeo/giphy.gif"
     alt="hi"
-    style="width: 42px; height: 42px;"
+    style="width: 64px; height: 64px;"
   />
-  I’m a cheerful Fullstack developer from Ukraine.
+  I’m a Fullstack developer from Ukraine.
   💻 I enjoy building websites, bots, scripts, and artificial intelligence.
   I’m also passionate about crypto.
   Hmm… When will Bitcoin hit $1,000,000? 🤔🔥
