@@ -3,11 +3,11 @@
   Hey
   <img
     src="https://media.giphy.com/media/4tSHBpzJw7R3rrKUeo/giphy.gif"
-    alt="hi"
-    style="width: 53px; height: 50px;"
+    alt=""
+    style="width: 53px; height: 40px;"
   />
   I’m a Fullstack developer from Ukraine.
-  💻 I enjoy building websites, bots, scripts, and artificial intelligence.
+  💻 I enjoy building websites, bots, apps, and artificial intelligence.
   I’m also passionate about crypto.
   Hmm… When will Bitcoin hit $1,000,000? 🤔🔥
 </h2>
