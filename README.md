@@ -1,8 +1,4 @@
-<h1 align="left">✨About me:</h1>
-
 ###
-
-
 <h2 style="display: flex; align-items: center; gap: 10px;">
   Hey
   <img
@@ -15,8 +11,6 @@
   I’m also passionate about crypto.
   Hmm… When will Bitcoin hit $1,000,000? 🤔🔥
 </h2>
-
-
 ###
 
 <h1 align="left">📚 Tech Stack:</h1>
