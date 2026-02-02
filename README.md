@@ -8,7 +8,7 @@
   <img
     src="https://media.giphy.com/media/4tSHBpzJw7R3rrKUeo/giphy.gif"
     alt="hi"
-    style="width: 32px; height: 32px;"
+    style="width: 42px; height: 42px;"
   />
   I’m a cheerful Fullstack developer from Ukraine.
   💻 I enjoy building websites, bots, scripts, and artificial intelligence.
