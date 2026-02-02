@@ -13,7 +13,7 @@
 </h2>
 ###
 
-<h1 align="left">📚 Tech Stack:</h1>
+<h1 align="left">Tech Stack:</h1>
 
 ###
 
