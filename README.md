@@ -2,7 +2,20 @@
 
 ###
 
-<h2 align="left">Hey! <img src="https://media.giphy.com/media/4tSHBpzJw7R3rrKUeo/giphy.gif"> I’m a cheerful Fullstack developer from Ukraine.<br>💻 I enjoy building websites, bots, scripts, and artificial intelligence.<br>I’m also passionate about crypto. Hmm… When will Bitcoin hit $1,000,000? 🤔🔥</h2>
+
+<h2 style="display: flex; align-items: center; gap: 10px;">
+  Hey!
+  <img
+    src="https://media.giphy.com/media/4tSHBpzJw7R3rrKUeo/giphy.gif"
+    alt="hi"
+    style="width: 32px; height: 32px;"
+  />
+  I’m a cheerful Fullstack developer from Ukraine.
+  💻 I enjoy building websites, bots, scripts, and artificial intelligence.
+  I’m also passionate about crypto.
+  Hmm… When will Bitcoin hit $1,000,000? 🤔🔥
+</h2>
+
 
 ###
 
