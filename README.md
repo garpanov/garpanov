@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">⚡I’m a cheerful Fullstack developer from Ukraine.<br>💻 I enjoy building websites, bots, scripts, and artificial intelligence.<br>I’m also passionate about crypto. Hmm… When will Bitcoin hit $1,000,000? 🤔🔥</h2>
+<h2 align="left">Hey! <img src="https://media.giphy.com/media/4tSHBpzJw7R3rrKUeo/giphy.gif"> I’m a cheerful Fullstack developer from Ukraine.<br>💻 I enjoy building websites, bots, scripts, and artificial intelligence.<br>I’m also passionate about crypto. Hmm… When will Bitcoin hit $1,000,000? 🤔🔥</h2>
 
 ###
 
