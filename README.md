@@ -1,67 +1,44 @@
-###
-<h2 style="display: flex; align-items: center; gap: 10px;">
-  Hey
-  <img
-    src="https://media.giphy.com/media/4tSHBpzJw7R3rrKUeo/giphy.gif"
-    alt=""
-    style="width: 53px; height: 40px;"
-  />
-  I’m a Fullstack developer from Ukraine.
-  💻 I enjoy building websites, bots, apps, and artificial intelligence.
-  I’m also passionate about crypto.
-  Hmm… When will Bitcoin hit $1,000,000? 🤔🔥
-</h2>
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Garpanov&fontSize=50&fontColor=fff&animation=twinkling)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=garpanov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=garpanov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+### Full Stack Developer
+
 </div>
+
+![About](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=About%20Me&fontSize=22&fontColor=fff)
+
+I'm a full stack developer with a strong focus on backend systems and AI integration. Over the years I've built and shipped production software across different domains — marketplace integrations, automation workflows, mobile apps, and algorithmic trading systems. I'm comfortable working across the stack when needed, but most of my time and interest goes into designing solid backend architecture and bringing AI into real, working products rather than just prototypes.
+What I care about is building things that actually hold up in production — systems that scale, integrations that don't break silently, and AI tools that solve real problems instead of just being a feature for the sake of it.
+
+- 🏢 Working at **** in **Poznan, Poland**
+- 🌱 Currently learning **Teleinformatics at Poznań University of Technology**
+- 💬 Ask me about **Full-stack development, cryptocurrency trading systems, and automation workflows.**
+- ⚡ Interests include cryptocurrency & blockchain, full-stack development, and video editing.
+
+![Skills](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Tech%20Stack&fontSize=22&fontColor=fff)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-333?style=for-the-badge&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-333?style=for-the-badge&logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-333?style=for-the-badge&logo=restapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-333?style=for-the-badge&logo=websockets&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-333?style=for-the-badge&logo=jwt&logoColor=white) ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-333?style=for-the-badge&logo=oauth2dot0&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-333?style=for-the-badge&logo=vuedotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-333?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-333?style=for-the-badge&logo=zustand&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-333?style=for-the-badge&logo=reactnative&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-333?style=for-the-badge&logo=expo&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-333?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-333?style=for-the-badge&logo=postman&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-333?style=for-the-badge&logo=githubcopilot&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-333?style=for-the-badge&logo=claude&logoColor=white) ![v0 by Vercel](https://img.shields.io/badge/v0%20by%20Vercel-333?style=for-the-badge&logo=v0byvercel&logoColor=white) ![Stitch by Google](https://img.shields.io/badge/Stitch%20by%20Google-333?style=for-the-badge&logo=stitchbygoogle&logoColor=white) ![asynchronous SQLAlchemy](https://img.shields.io/badge/asynchronous%20SQLAlchemy-333?style=for-the-badge&logo=asynchronoussqlalchemy&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-333?style=for-the-badge&logo=cloudinary&logoColor=white) ![codex](https://img.shields.io/badge/codex-333?style=for-the-badge&logo=codex&logoColor=white)
+
+![Stats](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=GitHub%20Stats&fontSize=22&fontColor=fff)
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garpanov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=garpanov&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
 </div>
 
-###
+![Connect](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Connect&fontSize=22&fontColor=fff)
 
-<div align="left">
-  <a href="https://www.youtube.com/@Digitaling-v5m" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.com/users/574597793558167552" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garpanov@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oleksandr-prylepskyi) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garpanov)
+
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer)
 
 ###
 
