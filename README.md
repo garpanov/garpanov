@@ -22,14 +22,6 @@ What I care about is building things that actually hold up in production — sys
 
 ![Stats](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=GitHub%20Stats&fontSize=22&fontColor=fff)
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garpanov&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=garpanov&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
 ![Connect](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&section=header&text=Connect&fontSize=22&fontColor=fff)
 
 <div align="center">
